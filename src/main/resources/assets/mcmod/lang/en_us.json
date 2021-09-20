@@ -1,0 +1,43 @@
+{
+  "item.mcmod.coconut": "Coconut",
+  "biome.mcmod.ghost_biome": "Ghost Biome",
+
+  "item.mcmod.lavian_swords": "Lavian Sword",
+  "item.mcmod.lavian_pickaxe": "Lavian Pickaxe",
+  "item.mcmod.lavian_hammer": "Lavian hamer",
+  "item.mcmod.lavian_axe": "Lavian Axe",
+  "item.mcmod.lavian_hoe": "Lavian Hoe",
+  "item.mcmod.lavian_shovel": "Lavian Shovel",
+  "item.mcmod.lavian_helmet": "Lavian Helmet",
+  "item.mcmod.lavian_chestplate": "Lavian Chestplate",
+  "item.mcmod.lavian_leggings": "Lavian Leggings",
+  "item.mcmod.lavian_boots": "Lavian Boots",
+  "item.mcmod.lavian": "Lavian",
+  "item.mcmod.banana": "Banana",
+  "block.mcmod.banana_crop": "Banana",
+
+  "block.mcmod.lavian_ore": "Lavian Ore",
+  "block.mcmod.lavian_block": "Lavian Block",
+  "block.mcmod.lavianide": "Lavianide",
+  "block.mcmod.zombide": "Zombide",
+
+  "effect.mcmod.explosive": "Explosive",
+  "item.minecraft.potion.effect.explosive": "Potion of Explosions",
+  "item.minecraft.splash_potion.effect.explosive": "Splash Potion of Explosions",
+  "item.minecraft.lingering_potion.effect.explosive": "Lingering Potion of Explosions",
+  "item.minecraft.tipped_arrow.effect.explosive": "Arrow of Explosions",
+  "block.mcmod.lightning_channeler": "Lightning channeler",
+  "screen.mcmod.lightning_channeler": "Lightning channeler",
+
+  "block.mcmod.coconut_log": "Coconut log",
+  "block.mcmod.coconut_planks": "Coconut planks",
+  "block.mcmod.coconut_wood": "Coconut wood",
+  "block.mcmod.stripped_coconut_log": "Stripped coconut log",
+  "block.mcmod.stripped_coconut_wood": "Stripped coconut wood",
+  "block.mcmod.coconut_sapling": "Coconut sapling",
+  "block.mcmod.coconut_leaves": "Coconut leaves",
+
+  "tooltip.lavian_hammer.hold_shift": "Hold Shift for More Information",
+
+  "itemGroup.McModTab": "Mc Mod"
+}

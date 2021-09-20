@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "mcmod:block/zombide_top",
+    "bottom": "mcmod:block/zombide_bottom",
+    "side": "mcmod:block/zombide_side"
+  }
+}

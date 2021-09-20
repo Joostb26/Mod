@@ -1,0 +1,8 @@
+
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "mcmod:block/stripped_coconut_log_top",
+    "side": "mcmod:block/stripped_coconut_log"
+  }
+}

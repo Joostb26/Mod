@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:decorated",
+  "config": {
+    "decorator": {
+      "type": "minecraft:count",
+      "config": {
+        "count": 4
+      }
+    },
+    "feature": {
+      "type": "minecraft:decorated",
+      "config": {
+        "decorator": {
+          "type": "minecraft:decorated",
+          "config": {
+            "outer": {
+              "type": "minecraft:square",
+              "config": {}
+            },
+            "inner": {
+              "type": "minecraft:heightmap_spread_double",
+              "config": {
+                "heightmap": "WORLD_SURFACE"
+              }
+            }
+          }
+        },
+        "feature": {
+          "type": "mcmod:ghost_feature",
+          "config": {}
+        }
+      }
+    }
+  }
+}

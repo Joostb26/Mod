@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "mcmod:block/coconut_sapling",
+    "particle": "mcmod:block/coconut_sapling"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "mcmod:block/lavianide_top",
+    "bottom": "mcmod:block/lavianide_bottom",
+    "side": "mcmod:block/lavianide_side"
+  }
+}
